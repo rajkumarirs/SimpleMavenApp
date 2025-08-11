@@ -1,0 +1,2 @@
+# SimpleMavenApp
+maven project
